@@ -11,7 +11,6 @@ exports.all_articles = (req, res) => {
     })
 }
 
-
 exports.article_create = function (req, res) {
     var article = new Article(
         {

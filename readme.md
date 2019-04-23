@@ -18,6 +18,6 @@ fetch('http://localhost:5000/articles/create', {
                 blurb: 'blurb goes here',
 				link: 'http',
 				img: 'image goes here',
-				src: 'Chortle',
+				src: 'The Panda Riot',
             })
         })
